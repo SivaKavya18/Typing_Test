@@ -1,0 +1,57 @@
+.bg {
+    background-image: linear-gradient(to right, #8658d6, #a678e2, #dac0ff);
+
+    padding: 20px;
+    height: 100vh;
+    
+}
+
+.head {
+    font-size: 55px;
+    font-weight: bold;
+    color: black;
+}
+
+.p1 {
+    color: #3e4c59;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+.img {
+    width: 60px;
+}
+
+.p2 {
+    color: #3e4c59;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.sp {
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.box1 {
+    background-color: #f3eaff;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 60%;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.p3 {
+    color: #323f4b;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.p4 {
+    color: #3e4c59;
+    padding: 20px;
+    font-size: 22px;
+}
